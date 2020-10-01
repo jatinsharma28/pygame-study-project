@@ -1,4 +1,4 @@
-# pygame-study-project
+# Snake game
 This is a single player game made using pygame .
 ![](welcome%20page.jpg)
 ![](choose%20difficulty.jpg)
